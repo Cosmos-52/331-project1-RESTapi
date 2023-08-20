@@ -1,7 +1,6 @@
 {
   "students": [
     {
-      "id": 1,
       "name": "Alice",
       "surname": "Robinson",
       "studentId": "682115501",
@@ -11,11 +10,10 @@
         "Economics",
         "Greek"
       ],
-      "teacherId": 1,
-      "comment": ""
+      "teacherId": "qwer",
+      "comment": []
     },
     {
-      "id": 2,
       "name": "James",
       "surname": "Clark",
       "studentId": "682115502",
@@ -25,11 +23,10 @@
         "Philosophy",
         "Korean"
       ],
-      "teacherId": 2,
-      "comment": ""
+      "teacherId": "asdf",
+      "comment": []
     },
     {
-      "id": 3,
       "name": "Emma",
       "surname": "Lewis",
       "studentId": "682115503",
@@ -39,12 +36,11 @@
         "Geology",
         "Hindi"
       ],
-      "teacherId": 2,
-      "comment": ""
+      "teacherId": "zxcv",
+      "comment": []
     },
     {
-      "id": 4,
-      "name": "David",
+      "name": "DavteacherId",
       "surname": "Lee",
       "studentId": "682115504",
       "profileImage": "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
@@ -53,11 +49,10 @@
         "Nutrition",
         "Arabic"
       ],
-      "teacherId": 4,
-      "comment": ""
+      "teacherId": "zxcv",
+      "comment": []
     },
     {
-      "id": 5,
       "name": "Isabella",
       "surname": "Walker",
       "studentId": "682115505",
@@ -67,11 +62,10 @@
         "Physics",
         "Dutch"
       ],
-      "teacherId": 5,
-      "comment": ""
+      "teacherId": "bnm",
+      "comment": []
     },
     {
-      "id": 6,
       "name": "Joshua",
       "surname": "Harris",
       "studentId": "682115506",
@@ -81,25 +75,23 @@
         "Theater",
         "Turkish"
       ],
-      "teacherId": 6,
-      "comment": ""
+      "teacherId": "iop",
+      "comment": []
     },
     {
-      "id": 7,
       "name": "Mia",
       "surname": "Nelson",
-      "studentId": 682115507,
+      "studentId": "682115507",
       "profileImage": "https://images.pexels.com/photos/1547971/pexels-photo-1547971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "courseList": [
         "Geography",
         "Marine Biology",
         "Polish"
       ],
-      "teacherId": 7,
-      "comment": ""
+      "teacherId": "asdf",
+      "comment": []
     },
     {
-      "id": 8,
       "name": "Jacob",
       "surname": "Hall",
       "studentId": "682115508",
@@ -109,75 +101,74 @@
         "Criminology",
         "Finnish"
       ],
-      "teacherId": 8,
-      "comment": ""
+      "teacherId": "ghjk",
+      "comment": []
     },
     {
-      "id": 9,
       "name": "Sophie",
       "surname": "Adams",
-      "studentId": 682115509,
+      "studentId": "682115509",
       "profileImage": "https://images.pexels.com/photos/1484810/pexels-photo-1484810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "courseList": [
         "Medicine",
         "Nursing",
         "Norwegian"
       ],
-      "teacherId": 9,
-      "comment": ""
+      "teacherId": "tyui",
+      "comment": []
     }
   ],
   "teachers": [
     {
-      "id": 1,
+      "teacherId": "qwer",
       "name": "Brian",
       "surname": "King",
       "profileImage": "https://shorturl.at/ghrXY"
     },
     {
-      "id": 2,
+      "teacherId": "tyui",
       "name": "Grace",
       "surname": "Wright",
       "profileImage": "https://shorturl.at/ghrYZ"
     },
     {
-      "id": 3,
+      "teacherId": "asdf",
       "name": "Samuel",
       "surname": "Lopez",
       "profileImage": "https://shorturl.at/ghrZ1"
     },
     {
-      "id": 4,
+      "teacherId": "ghjk",
       "name": "Chloe",
       "surname": "Hill",
       "profileImage": "https://shorturl.at/ghrZ2"
     },
     {
-      "id": 5,
+      "teacherId": "zxcv",
       "name": "Benjamin",
       "surname": "Scott",
       "profileImage": "https://shorturl.at/ghrZ3"
     },
     {
-      "id": 6,
+      "teacherId": "bnm",
       "name": "Lily",
       "surname": "Green",
       "profileImage": "https://shorturl.at/ghrZ4"
     },
     {
-      "id": 7,
+      "teacherId": "jkl",
       "name": "Nicholas",
       "surname": "Baker",
       "profileImage": "https://shorturl.at/ghrZ5"
     },
     {
-      "id": 8,
+      "teacherId": "iop",
       "name": "Madison",
       "surname": "Carter",
       "profileImage": "https://shorturl.at/ghrZ6"
     },
     {
-      "id": 9,
+      "teacherId": "qaz",
       "name": "Andrew",
       "surname": "Phillips",
       "profileImage": "https://shorturl.at/ghrZ7"
