@@ -82,24 +82,6 @@
       "comment": []
     },
     {
-      "Name": "James",
-      "surname": "Johnson",
-      "StudentId": "681234567",
-      "ProfileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
-      "CourseList": ["History", "Mathematics", "French"],
-      "TeacherId": "t-004",
-      "Comment": []
-    },
-    {
-      "Name": "Mary",
-      "surname": "Smith",
-      "StudentId": "692345678",
-      "ProfileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "CourseList": ["Biology", "Chemistry", "Spanish"],
-      "TeacherId": "t-012",
-      "Comment": []
-    },
-    {
       "name": "Yanhang",
       "surname": "Yang",
       "studentId": "622115513",
@@ -107,15 +89,6 @@
       "courseList": ["Law", "Criminology", "Finnish"],
       "teacherId": "t-002",
       "comment": []
-    },
-    {
-      "Name": "William",
-      "surname": "Davis",
-      "StudentId": "612345678",
-      "ProfileImage": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
-      "CourseList": ["Physics", "Literature", "German"],
-      "TeacherId": "t-015",
-      "Comment": []
     }
   ],
   "teachers": [
