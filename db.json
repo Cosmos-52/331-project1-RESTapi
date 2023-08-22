@@ -5,11 +5,7 @@
       "surname": "Robinson",
       "studentId": "682115501",
       "profileImage": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Chemistry",
-        "Economics",
-        "Greek"
-      ],
+      "courseList": ["Chemistry", "Economics", "Greek"],
       "teacherId": "t-001",
       "comment": []
     },
@@ -18,11 +14,7 @@
       "surname": "Clark",
       "studentId": "682115502",
       "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Sociology",
-        "Philosophy",
-        "Korean"
-      ],
+      "courseList": ["Sociology", "Philosophy", "Korean"],
       "teacherId": "t-002",
       "comment": []
     },
@@ -31,11 +23,7 @@
       "surname": "Lewis",
       "studentId": "682115503",
       "profileImage": "https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Astronomy",
-        "Geology",
-        "Hindi"
-      ],
+      "courseList": ["Astronomy", "Geology", "Hindi"],
       "teacherId": "t-003",
       "comment": []
     },
@@ -44,11 +32,7 @@
       "surname": "Lee",
       "studentId": "682115504",
       "profileImage": "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Political Science",
-        "Nutrition",
-        "Arabic"
-      ],
+      "courseList": ["Political Science", "Nutrition", "Arabic"],
       "teacherId": "t-001",
       "comment": []
     },
@@ -57,11 +41,7 @@
       "surname": "Walker",
       "studentId": "682115505",
       "profileImage": "https://images.pexels.com/photos/678783/pexels-photo-678783.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Mathematics",
-        "Physics",
-        "Dutch"
-      ],
+      "courseList": ["Mathematics", "Physics", "Dutch"],
       "teacherId": "t-004",
       "comment": []
     },
@@ -70,11 +50,7 @@
       "surname": "Harris",
       "studentId": "682115506",
       "profileImage": "https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Music",
-        "Theater",
-        "Turkish"
-      ],
+      "courseList": ["Music", "Theater", "Turkish"],
       "teacherId": "t-005",
       "comment": []
     },
@@ -83,11 +59,7 @@
       "surname": "Nelson",
       "studentId": "682115507",
       "profileImage": "https://images.pexels.com/photos/1547971/pexels-photo-1547971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Geography",
-        "Marine Biology",
-        "Polish"
-      ],
+      "courseList": ["Geography", "Marine Biology", "Polish"],
       "teacherId": "t-009",
       "comment": []
     },
@@ -96,11 +68,7 @@
       "surname": "Hall",
       "studentId": "682115508",
       "profileImage": "https://images.pexels.com/photos/2726111/pexels-photo-2726111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Law",
-        "Criminology",
-        "Finnish"
-      ],
+      "courseList": ["Law", "Criminology", "Finnish"],
       "teacherId": "t-006",
       "comment": []
     },
@@ -109,11 +77,7 @@
       "surname": "Adams",
       "studentId": "682115509",
       "profileImage": "https://images.pexels.com/photos/1484810/pexels-photo-1484810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Medicine",
-        "Nursing",
-        "Norwegian"
-      ],
+      "courseList": ["Medicine", "Nursing", "Norwegian"],
       "teacherId": "t-007",
       "comment": []
     },
@@ -149,11 +113,7 @@
       "surname": "Yang",
       "studentId": "622115513",
       "profileImage": "https://images.pexels.com/photos/2726111/pexels-photo-2726111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "courseList": [
-        "Law",
-        "Criminology",
-        "Finnish"
-      ],
+      "courseList": ["Law", "Criminology", "Finnish"],
       "teacherId": "t-002",
       "comment": []
     },
@@ -172,50 +132,50 @@
       "teacherId": "t-001",
       "name": "Brian",
       "surname": "King",
-      "Teachingsubjects":"Chemistry",
-      "department":"Science",
-      "phonenumber":"123456789",
-      "JoinedDate":"2021-03-01",
+      "Teachingsubjects": "Chemistry",
+      "department": "Science",
+      "phonenumber": "123456789",
+      "JoinedDate": "2021-03-01",
       "profileImage": "https://images.unsplash.com/photo-1687360441387-0179af118555?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=654&q=80"
     },
     {
       "teacherId": "t-002",
       "name": "Grace",
       "surname": "Wright",
-      "Teachingsubjects":"Sociology",
-      "department":"Social Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2021-03-04",
+      "Teachingsubjects": "Sociology",
+      "department": "Social Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2021-03-04",
       "profileImage": "https://shorturl.at/ghrYZ"
     },
     {
       "teacherId": "t-003",
       "name": "Samuel",
       "surname": "Lopez",
-      "Teachingsubjects":"Astronomy",
-      "department":"Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2019-04-05",
+      "Teachingsubjects": "Astronomy",
+      "department": "Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2019-04-05",
       "profileImage": "https://shorturl.at/ghrZ1"
     },
     {
       "teacherId": "t-004",
       "name": "Chloe",
       "surname": "Hill",
-      "Teachingsubjects":"Mathematics",
-      "department":"Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2020-03-01",
+      "Teachingsubjects": "Mathematics",
+      "department": "Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2020-03-01",
       "profileImage": "https://shorturl.at/ghrZ2"
     },
     {
       "teacherId": "t-005",
       "name": "Benjamin",
       "surname": "Scott",
-      "Teachingsubjects":"Music",
-      "department":"Arts",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2018-03-01",
+      "Teachingsubjects": "Music",
+      "department": "Arts",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2018-03-01",
 
       "profileImage": "https://shorturl.at/ghrZ3"
     },
@@ -223,100 +183,100 @@
       "teacherId": "t-006",
       "name": "Lily",
       "surname": "Green",
-      "Teachingsubjects":"Law",
-      "department":"Social Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2022-03-01",
+      "Teachingsubjects": "Law",
+      "department": "Social Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2022-03-01",
       "profileImage": "https://shorturl.at/ghrZ4"
     },
     {
       "teacherId": "t-007",
       "name": "Nicholas",
       "surname": "Baker",
-      "Teachingsubjects":"Medicine",
-      "department":"Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2022-07-01",
+      "Teachingsubjects": "Medicine",
+      "department": "Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2022-07-01",
       "profileImage": "https://shorturl.at/ghrZ5"
     },
     {
       "teacherId": "t-008",
       "name": "Madison",
       "surname": "Carter",
-      "Teachingsubjects":"Computer Science",
-      "department":"Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2010-05-01",
+      "Teachingsubjects": "Computer Science",
+      "department": "Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2010-05-01",
       "profileImage": "https://shorturl.at/ghrZ6"
     },
     {
       "teacherId": "t-009",
       "name": "Andrew",
       "surname": "Phillips",
-      "Teachingsubjects":"Geography",
-      "department":"Social Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2019-03-01",
+      "Teachingsubjects": "Geography",
+      "department": "Social Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2019-03-01",
       "profileImage": "https://shorturl.at/ghrZ7"
     },
     {
       "teacherId": "t-010",
       "name": "Ava",
       "surname": "Mitchell",
-      "Teachingsubjects":"History",
-      "department":"Social Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2019-03-01",
+      "Teachingsubjects": "History",
+      "department": "Social Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2019-03-01",
       "profileImage": "https://shorturl.at/ghrZ8"
     },
     {
       "teacherId": "t-011",
       "name": "Michael",
       "surname": "Johnson",
-      "Teachingsubjects":"English",
-      "department":"Social Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2019-03-01",
+      "Teachingsubjects": "English",
+      "department": "Social Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2019-03-01",
       "profileImage": "https://shorturl.at/ghrZ9"
     },
     {
       "teacherId": "t-012",
       "name": "Emily",
       "surname": "Williams",
-      "Teachingsubjects":"English",
-      "department":"Social Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2019-03-01",
+      "Teachingsubjects": "English",
+      "department": "Social Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2019-03-01",
       "profileImage": "https://shorturl.at/ghrZa"
     },
     {
       "teacherId": "t-013",
       "name": "Daniel",
       "surname": "Jones",
-      "Teachingsubjects":"English",
-      "department":"Social Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2019-03-01",
+      "Teachingsubjects": "English",
+      "department": "Social Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2019-03-01",
       "profileImage": "https://shorturl.at/ghrZb"
     },
     {
       "teacherId": "t-014",
       "name": "Olivia",
       "surname": "Brown",
-      "Teachingsubjects":"English",
-      "department":"Social Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2019-03-01",
+      "Teachingsubjects": "English",
+      "department": "Social Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2019-03-01",
       "profileImage": "https://shorturl.at/ghrZc"
     },
     {
       "teacherId": "t-015",
       "name": "William",
       "surname": "Davis",
-      "Teachingsubjects":"English",
-      "department":"Social Science",
-      "phonenumber":"1234512334",
-      "JoinedDate":"2019-03-01",
+      "Teachingsubjects": "English",
+      "department": "Social Science",
+      "phonenumber": "1234512334",
+      "JoinedDate": "2019-03-01",
       "profileImage": "https://shorturl.at/ghrZd"
     }
   ]
